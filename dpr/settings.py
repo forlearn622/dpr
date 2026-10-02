@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'hello',
     'welcome',
     'bollywood',
+    'entertainment',
+    'PostMethod',
 ]
 
 MIDDLEWARE = [

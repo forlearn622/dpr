@@ -22,6 +22,10 @@ urlpatterns = [
     path('',include('hello.urls')),
     path('welcome/',include('welcome.urls')),
     path('bollywood/',include('bollywood.urls')),
+    path('entertainment/',include('entertainment.urls')),
+    path('PostMethod/',include('PostMethod.urls')),
+
+
 
 
 ]
